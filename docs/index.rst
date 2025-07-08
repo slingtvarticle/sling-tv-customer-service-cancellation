@@ -6,7 +6,7 @@ How Do I Cancel Sling TV Customer Service Easily?
    :caption: Contents:
 Learn how to cancel Sling TV through customer service with ease. Find helpful tips, steps, and FAQs in this detailed cancellation guide.
  
-.. image:: https://expressvpn-help.readthedocs.io/en/latest/_images/service.jpg
+.. image:: service.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
